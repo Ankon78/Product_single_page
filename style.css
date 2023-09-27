@@ -1,0 +1,145 @@
+{
+    width: 100%;
+     height: 100%;
+      background: #000000; 
+      border-bottom: 0.30px rgba(0, 0, 0, 0.25) solid;
+}
+.navbar{
+    width: 1280px;
+    height: 90px;
+    background: #FFFFFF;
+    border-color: #B8B8B8; 
+    
+}
+.logoname{
+    word-wrap: break-word;
+    font-family: Mintaka;
+    left: 80px; 
+    top: -0px; 
+    position: absolute; 
+    color: #F40F6F; 
+    font-size: 42px;
+     font-weight: 400;
+}
+.navImage{
+    
+}
+#search{
+    border-color: #F86FA9 !important;
+   height: 40px;
+   width:360px;
+   font-size: 15px;
+   text-indent: 40px;
+}
+.groupImage{
+    width: 68px; 
+    height: 10px; 
+    left: 170px;
+     top: 50px;
+      position: absolute;
+}
+.form{
+    margin-top:15px;
+    margin-left: 300px;
+}
+.accountImg{
+    /* left: 20px; */
+    top: 50px;
+    
+
+}
+#whatever{
+    background-color: #F40F6F ;
+    border-radius: 42px; 
+    border: 1px;
+    font-color: white;
+}
+.still_on_view{
+    float: right;
+}
+ul li{
+    float:right;
+    text-decoration: none;
+    display:inline-block;
+}
+.groupImage2{
+    width: 70px; 
+    height: 8px; 
+    left: 85px;
+    top: 115px;
+    position: absolute; 
+    font-color:white;
+    
+}
+carousel-side-image{
+    width: 100%; 
+    height: 100%; 
+    background: linear-gradient(0deg, white 0%, white 100%); 
+    border-radius: 6px; 
+    border: 1px solid;
+}
+.item-name{
+    font-size: 30px;
+font-family: Inter;
+font-weight: 600;
+line-height: 40px;
+word-wrap: break-word;
+}
+.brand{
+    color: black;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: bold;
+    word-wrap: break-word;
+    
+}
+.tree{
+    font-weight: normal;
+    font-size: 14px;
+}
+.fa-star{
+    background: #FFAC0A; 
+    border: 2px #FFAC0A solid;
+}
+.customer-reviews{
+    color: black;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.available{
+    color: #20BF06;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 500;
+    letter-spacing: 0.12px;
+    word-wrap: break-word;
+}
+.productPrice{
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 42px;
+    display: inline-block;
+}
+.priceBefore{
+    font-weight: 500;
+    font-size: 16px;
+    color: #999999;
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: line-through;
+}
+.discount{
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+    display: inline-block;
+}
+.horizontalLine {
+    height: 0.5px;
+    background-color: rgba(0, 0, 0, 0.25);
+  }
